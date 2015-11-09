@@ -1,7 +1,7 @@
 ## Deep Learning with Chainer  
 
 * Deep Convolutional Neural Networks with Chainer  
-http://nbviewer.ipython.org/github/masaki-y/Chainer/blob/master/Chainer-CNN-CIFAR10.ipynb
+https://github.com/masaki-y/Deep-Learning-with-Chainer/blob/master/Chainer-CNN-CIFAR10.ipynb
 
 * Fine-tuning (Transfer Learning) Caffemodel with Chainer  
-http://nbviewer.ipython.org/github/masaki-y/Chainer/blob/master/Chainer-Fine-tuning.ipynb.ipynb
+https://github.com/masaki-y/Deep-Learning-with-Chainer/blob/master/Chainer-Fine-tuning.ipynb.ipynb
