@@ -8,7 +8,7 @@ https://github.com/masaki-y/Deep-Learning-with-Chainer/blob/master/Chainer-Fine-
 
 ## Dependencies
 Python 2.7, Chainer 1.4, Jupyter, matplotlib, progressbar  
-If you don't have these packages, I recommend you install them by 'pip install'.
+#### If you don't have these packages, I recommend you install them by 'pip install'.
 
 ## Usage
 Open a Jupyter Session in your browser.  
