@@ -10,6 +10,7 @@ https://github.com/masaki-y/Deep-Learning-with-Chainer/blob/master/Chainer-Fine-
 Python 2.7, Jupyter, Chainer 1.4, matplotlib, progressbar
 
 ## Usage
-```shellscript
+```sh
 $ jupyter notebook xxx.ipynb
 ```
+and Run All
