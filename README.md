@@ -7,10 +7,9 @@ https://github.com/masaki-y/Deep-Learning-with-Chainer/blob/master/Chainer-CNN-C
 https://github.com/masaki-y/Deep-Learning-with-Chainer/blob/master/Chainer-Fine-tuning.ipynb.ipynb
 
 ## Dependencies
-Python 2.7, Jupyter, matplotlib, progressbar
+Python 2.7, Jupyter, Chainer 1.4, matplotlib, progressbar
 
 ## Usage
-
-```shellsession
+```shellscript
 $ jupyter notebook xxx.ipynb
 ```
