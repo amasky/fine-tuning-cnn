@@ -7,7 +7,8 @@ https://github.com/masaki-y/Deep-Learning-with-Chainer/blob/master/Chainer-CNN-C
 https://github.com/masaki-y/Deep-Learning-with-Chainer/blob/master/Chainer-Fine-tuning.ipynb.ipynb
 
 ## Dependencies
-Python 2.7, Jupyter, Chainer 1.4, matplotlib, progressbar
+Python 2.7, Chainer 1.4, Jupyter, matplotlib, progressbar
+If you don't have these packages, I recommend you install them by 'pip install'.
 
 ## Usage
 Open a Jupyter Session in your browser.
