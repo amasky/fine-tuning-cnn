@@ -10,7 +10,8 @@ https://github.com/masaki-y/Deep-Learning-with-Chainer/blob/master/Chainer-Fine-
 Python 2.7, Jupyter, Chainer 1.4, matplotlib, progressbar
 
 ## Usage
+Open a Jupyter Session in your browser.
 ```sh
 $ jupyter notebook xxx.ipynb
 ```
-and Run All
+Then select the 'Run All' from the 'cell' in the top menu.
