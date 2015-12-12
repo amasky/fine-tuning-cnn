@@ -11,11 +11,11 @@ Python 2.7, Chainer 1.4, Jupyter, matplotlib, progressbar
 If you don't have these packages, I recommend you install them by 'pip install'.
 
 ## Usage
-Open a Jupyter Session in your browser.
+Open a Jupyter Session in your browser.  
+Then select the 'Run All' from the 'cell' in the top menu.  
 ```sh
 $ jupyter notebook xxx.ipynb
 ```
-Then select the 'Run All' from the 'cell' in the top menu.
 
 If you use a GPU, set the GPU ID in 'gpu'.
 Chainer will switch automatically to GPU mode.
