@@ -16,3 +16,10 @@ Open a Jupyter Session in your browser.
 $ jupyter notebook xxx.ipynb
 ```
 Then select the 'Run All' from the 'cell' in the top menu.
+
+If you use a GPU, set the GPU ID in 'gpu'.
+Chainer will switch automatically to GPU mode.
+```py
+gpu = -1 # gpu device ID (cpu if this negative)
+xp = cuda.cupy if gpu >= 0 else np  
+```
