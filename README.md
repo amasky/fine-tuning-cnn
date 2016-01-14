@@ -3,11 +3,11 @@
 * Deep Convolutional Neural Networks with Chainer  
 https://github.com/masaki-y/Deep-Learning-with-Chainer/blob/master/Chainer-CNN-CIFAR10.ipynb
 
-* Fine-tuning (Transfer Learning) Caffemodel with Chainer  
+* Fine-tuning Caffemodel with Chainer  
 https://github.com/masaki-y/Deep-Learning-with-Chainer/blob/master/Chainer-Fine-Tuning.ipynb
 
 ## Dependencies
-Python 2 (3: partly supported), cython, Chainer (v1.5), Jupyter, matplotlib, progressbar2  
+Python 2 or 3, cython, chainer (v1.5), jupyter, matplotlib, scikit-image, progressbar2  
 If you don't have these python packages, I recommend you install them by "pip install".  
 In chainer, the "CaffeFunction" class to load caffemodel only supports python 2.  
 
