@@ -8,7 +8,8 @@ https://github.com/masaki-y/Deep-Learning-with-Chainer/blob/master/Chainer-Fine-
 
 ## Dependencies
 Python 2 (3: partly supported), cython, Chainer (v1.5), Jupyter, matplotlib, progressbar2  
-If you don't have these python packages, I recommend you install them by "pip install".
+If you don't have these python packages, I recommend you install them by "pip install".  
+In chainer, the "CaffeFunction" class to load caffemodel only supports python 2.  
 
 ## Usage
 Open a Jupyter's session in your browser.  
