@@ -7,7 +7,7 @@ https://github.com/masaki-y/Deep-Learning-with-Chainer/blob/master/Chainer-CNN-C
 https://github.com/masaki-y/Deep-Learning-with-Chainer/blob/master/Chainer-Fine-Tuning.ipynb
 
 ## Dependencies
-Python 2 or 3, cython, chainer (v1.5), jupyter, matplotlib, scikit-image, progressbar2  
+Python 2 or 3, cython (for chainer), [chainer](http://chainer.org/) (v1.5), jupyter, matplotlib, scipy (for scikit-image), scikit-image, progressbar2  
 If you don't have these python packages, I recommend you install them by "pip install".  
 The chainer "CaffeFunction" class to load caffemodel only supports python 2.  
 
@@ -15,7 +15,7 @@ The chainer "CaffeFunction" class to load caffemodel only supports python 2.
 Open a Jupyter's session in your browser.  
 Then select the `Run All` from the `cell` in the top menu.  
 ```sh
-$ jupyter notebook xxx.ipynb
+$ jupyter notebook xxxxx.ipynb
 ```
 
 If you use a GPU, set the GPU ID in `gpu`.
