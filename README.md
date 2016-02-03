@@ -1,10 +1,10 @@
 ## Deep Learning with Chainer  
 
 * Deep Convolutional Neural Networks with Chainer (Python 2 or 3)  
-https://github.com/masaki-y/Deep-Learning-with-Chainer/blob/master/Chainer-CNN-CIFAR10.ipynb
+http://nbviewer.jupyter.org/github/masaki-y/Deep-Learning-with-Chainer/blob/master/Chainer-CNN-CIFAR10.ipynb
 
 * Fine-tuning Caffemodel with Chainer (Python 2)  
-https://github.com/masaki-y/Deep-Learning-with-Chainer/blob/master/Chainer-Fine-Tuning.ipynb
+http://nbviewer.jupyter.org/github/masaki-y/Deep-Learning-with-Chainer/blob/master/Chainer-Fine-Tuning.ipynb
 
 ## Dependencies
 Python 2 or 3, [chainer](http://chainer.org/) (v1.5), jupyter, matplotlib, scikit-image, progressbar2  
