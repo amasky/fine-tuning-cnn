@@ -13,12 +13,12 @@ The chainer "CaffeFunction" class to load caffemodel only supports python 2.
 
 ## Usage
 Open a Jupyter's session in your browser.  
-Then select the `Run All` from the `cell` in the top menu.  
 ```sh
 $ jupyter notebook xxxxx.ipynb
 ```
+Then select the `Run All` from the `cell` in the top menu.  
 
-If you use a GPU, set the GPU ID in `gpu`.
+If you use a GPU, set the GPU ID to `gpu` in the jupyter notebook.
 Chainer will switch automatically to GPU mode.
 ```py
 gpu = -1 # gpu device ID (cpu if this negative)
