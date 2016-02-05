@@ -8,7 +8,13 @@ http://nbviewer.jupyter.org/github/masaki-y/Deep-Learning-with-Chainer/blob/mast
 
 
 ## Examples  
-
+```
+# 1| ship         |  89.769%
+# 2| automobile   |  10.231%
+# 3| airplane     |   0.000%
+# 4| truck        |   0.000%
+# 5| cat          |   0.000%
+```
 
 ## Dependencies
 Python 2 or 3, [chainer](http://chainer.org/) (v1.5), jupyter, matplotlib, scikit-image, progressbar2  
