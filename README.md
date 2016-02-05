@@ -14,7 +14,7 @@ The chainer "CaffeFunction" class to load caffemodel only supports python 2.
 ## Usage
 Open a Jupyter's session in your browser.  
 ```sh
-$ jupyter notebook Chainer-CNN-CIFAR10.ipynb
+➜  jupyter notebook Chainer-CNN-CIFAR10.ipynb
 ```
 Then select the `Run All` from the `cell` in the top menu.  
 
