@@ -8,7 +8,7 @@ http://nbviewer.jupyter.org/github/masaki-y/Deep-Learning-with-Chainer/blob/mast
 
 
 ## Examples  
-* Prediction of Deep CNN
+* Prediction of Deep CNN  
 ![ship image in CIFAR-10](/examples/cifar10-ship.png)
 ```
 # 1| ship         |  89.769%
@@ -17,7 +17,7 @@ http://nbviewer.jupyter.org/github/masaki-y/Deep-Learning-with-Chainer/blob/mast
 # 4| truck        |   0.000%
 # 5| cat          |   0.000%
 ```
-* Feature maps of this 'ship' image
+* Feature maps of this 'ship' image  
 ![feature maps](/examples/cifar10-fmap.png)
 
 ## Dependencies
