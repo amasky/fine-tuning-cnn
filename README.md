@@ -8,14 +8,17 @@ http://nbviewer.jupyter.org/github/masaki-y/Deep-Learning-with-Chainer/blob/mast
 
 
 ## Examples  
-```
+* Prediction of Deep CNN
 ![ship image in CIFAR-10](/examples/cifar10-ship.png)
+```
 # 1| ship         |  89.769%
 # 2| automobile   |  10.231%
 # 3| airplane     |   0.000%
 # 4| truck        |   0.000%
 # 5| cat          |   0.000%
 ```
+* Feature maps of this 'ship' image
+![feature maps](/examples/cifar10-fmap.png)
 
 ## Dependencies
 Python 2 or 3, [chainer](http://chainer.org/) (v1.5), jupyter, matplotlib, scikit-image, progressbar2  
