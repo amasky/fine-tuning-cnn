@@ -8,8 +8,8 @@ http://nbviewer.jupyter.org/github/masaki-y/Deep-Learning-with-Chainer/blob/mast
 
 
 ## Examples  
-![ship image in CIFAR-10](/examples/cifar10-ship.png)
 ```
+![ship image in CIFAR-10](/examples/cifar10-ship.png)
 # 1| ship         |  89.769%
 # 2| automobile   |  10.231%
 # 3| airplane     |   0.000%
