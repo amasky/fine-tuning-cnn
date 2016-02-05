@@ -24,3 +24,5 @@ Chainer will switch automatically to GPU mode.
 gpu = -1 # gpu device ID (cpu if this negative)
 xp = cuda.cupy if gpu >= 0 else np  
 ```
+
+## Examples  
