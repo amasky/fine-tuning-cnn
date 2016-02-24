@@ -36,8 +36,7 @@
 ```
 
 * Achieved filters by unsupervised learning on AE  
-![Filters (ReLU)](/examples/ae-w-drop-relu-epoch500.png)  
-![Filters (Sigmoid)](/examples/ae-w-drop-sigmoid-epoch500.png)  
+![Visualized Filters](/examples/ae-w-drop-relu-epoch500.png)  
 
 ## Dependencies
 Python 2 or 3, [chainer](http://chainer.org/) (v1.5), jupyter, matplotlib, scikit-image, progressbar2  
