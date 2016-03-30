@@ -39,7 +39,7 @@
 ![Visualized Filters](/examples/ae-w-drop-relu-adam-epoch500.png)  
 
 ## Dependencies
-Python 2 or 3, [chainer](http://chainer.org/) (v1.5), jupyter, matplotlib, scikit-image, progressbar2  
+Python 2 or 3, [chainer](http://chainer.org/) (v1.5 or later), jupyter, matplotlib, scikit-image, progressbar2  
 
 ## Usage
 Open a Jupyter's session in your browser.  
@@ -48,9 +48,9 @@ Open a Jupyter's session in your browser.
 ```
 Then select the `Run All` from the `cell` in the top menu.  
 
-If you use a GPU, set the GPU ID to `gpu` in the jupyter notebook.
+If you use a GPU, set the GPU ID to `gpuid` in the jupyter notebook.
 Chainer will switch automatically to GPU mode.
 ```py
-gpu = -1 # gpu device ID (cpu if this negative)
-xp = cuda.cupy if gpu >= 0 else np  
+gpuid = -1 # gpu device ID (cpu if this negative)
+xp = cuda.cupy if gpuid >= 0 else np  
 ```
