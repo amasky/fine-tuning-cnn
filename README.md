@@ -39,7 +39,7 @@
 ![Visualized Filters](/examples/ae-w-drop-relu-adam-epoch500.png)  
 
 ## Dependencies
-Python 2 or 3, [chainer](http://chainer.org/) (v1.5 or later), jupyter, matplotlib, scikit-image, progressbar2  
+Python 2 or 3, [chainer](http://chainer.org/) (v1.5 or later), jupyter, matplotlib, scikit-image, tqdm  
 
 ## Usage
 Open a Jupyter's session in your browser.  
