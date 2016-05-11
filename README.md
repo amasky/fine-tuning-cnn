@@ -13,11 +13,11 @@
 * Prediction of CNN  
 ![ship image in CIFAR-10](/examples/cifar10-ship.png)
 ```
-# 1| ship         |  89.769%
-# 2| automobile   |  10.231%
-# 3| airplane     |   0.000%
-# 4| truck        |   0.000%
-# 5| cat          |   0.000%
+# 1| ship         |  67.495%
+# 2| automobile   |  32.491%
+# 3| airplane     |   0.013%
+# 4| truck        |   0.001%
+# 5| frog         |   0.000%
 ```
 * Feature maps of the 1st layer  
 ![feature maps](/examples/cifar10-fmap.png)
@@ -28,11 +28,11 @@
 * Prediction of fine-tuned CNN   
 ![buttercup image in dataset](/examples/finetuning-buttercup.png)
 ```
-# 1| Buttercup    | 94.995%
-# 2| Iris         |  3.462%
-# 3| Daffodil     |  1.258%
-# 4| Tigerlily    |  0.130%
-# 5| Cowslip      |  0.120%
+# 1| Buttercup    |  90.449%
+# 2| Iris         |   7.200%
+# 3| Daffodil     |   1.860%
+# 4| Sunflower    |   0.279%
+# 5| Tigerlily    |   0.156%
 ```
 
 * Achieved filters by unsupervised learning on AE  
