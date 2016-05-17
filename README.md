@@ -1,13 +1,13 @@
 # Deep Learning with Chainer  
 
 * Deep Convolutional Neural Networks (Python 2 or 3)  
-[nbviewer.jupyter.org/github/masaki-y/Deep-Learning-with-Chainer/blob/master/Chainer-CNN-CIFAR10.ipynb](http://nbviewer.jupyter.org/github/masaki-y/Deep-Learning-with-Chainer/blob/master/Chainer-CNN-CIFAR10.ipynb)
+[nbviewer.jupyter.org/github/masaki-y/deep-learning-with-chainer/blob/master/chainer-cnn-cifar10.ipynb](http://nbviewer.jupyter.org/github/masaki-y/deep-learning-with-chainer/blob/master/chainer-cnn-cifar10.ipynb)
 
 * Fine-tuning Caffemodel (Python 2)  
-[nbviewer.jupyter.org/github/masaki-y/Deep-Learning-with-Chainer/blob/master/Chainer-Fine-Tuning.ipynb](http://nbviewer.jupyter.org/github/masaki-y/Deep-Learning-with-Chainer/blob/master/Chainer-Fine-Tuning.ipynb)
+[nbviewer.jupyter.org/github/masaki-y/deep-learning-with-chainer/blob/master/chainer-fine-tuning.ipynb](http://nbviewer.jupyter.org/github/masaki-y/deep-learning-with-chainer/blob/master/chainer-fine-tuning.ipynb)
 
 * Auto Encoder and Learned Filter Visualization (Python 2 or 3)  
-[nbviewer.jupyter.org/github/masaki-y/Deep-Learning-with-Chainer/blob/master/Chainer-Auto-Encoder.ipynb](http://nbviewer.jupyter.org/github/masaki-y/Deep-Learning-with-Chainer/blob/master/Chainer-Auto-Encoder.ipynb)
+[nbviewer.jupyter.org/github/masaki-y/deep-learning-with-chainer/blob/master/chainer-auto-encoder.ipynb](http://nbviewer.jupyter.org/github/masaki-y/deep-learning-with-chainer/blob/master/chainer-auto-encoder.ipynb)
 
 ## Examples  
 * Prediction of CNN  
