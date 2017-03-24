@@ -1,4 +1,4 @@
-# Deep Learning with Chainer  
+# CNN with Chainer  
 
 * Fine-tuning Caffemodel (Python 2)  
 [chainer-fine-tuning.ipynb](https://github.com/masaki-y/deep-learning-with-chainer/blob/master/chainer-fine-tuning.ipynb)
