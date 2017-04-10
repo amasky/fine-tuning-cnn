@@ -1,4 +1,4 @@
-# Fine-tuning trained CNN  
+# Fine-tuning trained caffemodel CNN with chainer  
 
 * Jupyter notebook on nbviewer  
 [nbviewer.jupyter.org/github/amasky/fine-tuning-cnn/blob/master/fine-tuning-cnn.ipynb](http://nbviewer.jupyter.org/github/amasky/fine-tuning-cnn/blob/master/fine-tuning-cnn.ipynb)
@@ -6,7 +6,7 @@
 ## Examples  
 
 * Inference of fine-tuned CNN   
-![image of colls' foot in the dataset]("/examples/colls' foot.png")
+![example image in the dataset]("/examples/colls' foot.png")
 ```
 # 1| Colls' Foot  |  99.998%
 # 2| Daisy        |   0.002%
