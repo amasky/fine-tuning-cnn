@@ -7,7 +7,7 @@
 
 * Inference of fine-tuned CNN   
 
-![example image in the dataset]("/examples/colls' foot.png")
+![example image in the dataset](examples/colls' foot.png)
 
 ```
 # 1| Colls' Foot  |  99.998%
