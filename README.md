@@ -1,7 +1,7 @@
 # Fine-tuning trained CNN to classify flower images  
 
-* Jupyter notebook on
-[fine-tuning-cnn.ipynb](https://github.com/amasky/fine-tuning-cnn/blob/master/fine-tuning-cnn.ipynb)
+* Jupyter notebook on nbviewer  
+[fine-tuning-cnn.ipynb](http://nbviewer.jupyter.org/github/amasky/fine-tuning-cnn/blob/master/fine-tuning-cnn.ipynb)
 
 ## Examples  
 
