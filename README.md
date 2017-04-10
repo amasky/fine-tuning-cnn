@@ -6,7 +6,7 @@
 ## Examples  
 
 * Inference of fine-tuned CNN   
-![image of colls' foot in the dataset](/examples/colls' foot.png)
+![image of colls' foot in the dataset]("/examples/colls' foot.png")
 ```
 # 1| Colls' Foot  |  99.998%
 # 2| Daisy        |   0.002%
