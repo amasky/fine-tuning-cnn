@@ -5,8 +5,10 @@
 
 ## Examples  
 
-* Inference of fine-tuned CNN   
+* Training losses and accuracies on test dataset
+![training loss and iteration](examples/loss.png)
 
+* Inference of fine-tuned CNN   
 ![example image in the dataset](examples/colls'%20foot.png)
 
 ```
