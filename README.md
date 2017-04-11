@@ -1,7 +1,7 @@
 # Fine-tuning caffemodel CNN with Chainer  
 
 ## Jupyter notebook on nbviewer  
-[nbviewer.jupyter.org/github/amasky/fine-tuning-cnn/blob/master/fine-tuning-cnn.ipynb](http://nbviewer.jupyter.org/github/amasky/fine-tuning-cnn/blob/master/fine-tuning-cnn.ipynb)
+* [nbviewer.jupyter.org/github/amasky/fine-tuning-cnn/blob/master/fine-tuning-cnn.ipynb](http://nbviewer.jupyter.org/github/amasky/fine-tuning-cnn/blob/master/fine-tuning-cnn.ipynb)
 
 
 ## Examples  
